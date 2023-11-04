@@ -8,7 +8,7 @@ The purpose of this project is to create a new manual of Word Formation in the f
 ## Graphics in Mermaid
 
 
-![Πείθω](/images/Images/Peitho.svg)
+![Πείθω](/Images/Peitho.svg)
 
 
 ## References
