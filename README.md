@@ -1,9 +1,13 @@
-# Greek Word Formation
+# Word Formation in Ancient Greek
 
 ## Introduction
 
 This is the site of the Project “Word Formation in Ancient Greek”.
-The purpose of this project is to create a 
+The purpose of this project is to create a new manual of Word Formation in the footsteps of Debrunner and Risch.
+
+## Graphics in Mermaid
+
+
 
 
 
