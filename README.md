@@ -15,7 +15,7 @@
 ## Database
 
 1. The nucleus of the project is a **database** containing the **Liddle-Scott-Jones Dictionary** provided by the Perseus Project. 
-2. The LSJ has been take from **Celano**'s  ![Unicode LSJ](https://github.com/gcelano/LSJ_GreekUnicode)
+2. The LSJ has been take from **Celano**'s  [Unicode LSJ](https://github.com/gcelano/LSJ_GreekUnicode)
 3. This dictionary contains 116.500 lemmata.
 4. The information is encoded in xml.
 ---
