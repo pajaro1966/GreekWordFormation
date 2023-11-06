@@ -46,7 +46,7 @@
 1. Many of the processes are automatized taking as starting point the manually tagging.
 2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
-3. This video shows the automatic extraction: [Derivation extraction](Images/Extraction.mp4)
+3. This video shows the automatic extraction: (Images/Extraction.mp4)
 
 ---
 
@@ -54,7 +54,7 @@
 
 1. The database allows the automatical creation of graphics representing the derivation of each lemma.
    
-2. The graphics are created in Markdown using ![Mermaid](https://mermaid.js.org). 
+2. The graphics are created in Markdown using [Mermaid](https://mermaid.js.org). 
 ![](Images/Mermaid.png)
 
 3. The following image (svg) depicts a provisional representation of the word family πείθω (‘to persuade’):
