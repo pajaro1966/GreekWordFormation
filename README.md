@@ -8,16 +8,16 @@
 ## Introduction
 
 1. This is the site of the Project “Word Formation in Ancient Greek”.
-2. The purpose of this project is to create a new manual of Word Formation in the footsteps of Debrunner and Risch.
-3. This site is underconstruction.
+2. The purpose of this project is to create a new handbook of Word Formation in the footsteps of Debrunner and Risch.
+3. This site is under construction.
 ![](Images/Site_under_construction_02.png)
 ---
 ## Database
 
 1. The nucleus of the project is a **database** containing the **Liddle-Scott-Jones Dictionary** provided by the Perseus Project. 
-2. The LSJ has been take from **Celano**'s LSJ_GreekUnicode (https://github.com/gcelano/LSJ_GreekUnicode)
+2. The LSJ has been take from **Celano**'s  ![Unicode LSJ](https://github.com/gcelano/LSJ_GreekUnicode)
 3. This dictionary contains 116.500 lemmata.
-4. The information is coded in xml.
+4. The information is encoded in xml.
 ---
 ![Πείθω](Images/DataBase_XML.png)
 
@@ -44,7 +44,7 @@
 ## Data extraction
 
 1. Many of the processes are automatized taking as starting point the manually tagging.
-2. The derivation of each lemma is extracted automatically, once the  first base of each lemma has been manually established:
+2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
 3. This video shows the automatic extraction:
 <video width="640" height="480" controls>
@@ -59,7 +59,7 @@
 
 1. The database allows the automatical creation of graphics representing the derivation of each lemma.
    
-2. The graphics are created in Markdown using [Mermaid] (https://mermaid.js.org). 
+2. The graphics are created in Markdown using ![Mermaid](https://mermaid.js.org). 
 ![](Images/Mermaid.png)
 
 3. The following image (svg) depicts a provisional representation of the word family πείθω (‘to persuade’):
