@@ -46,12 +46,7 @@
 1. Many of the processes are automatized taking as starting point the manually tagging.
 2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
-3. This video shows the automatic extraction:
-<video width="640" height="480" controls>
-  <source src="Images/Extraction.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+3. This video shows the automatic extraction: [Derivation extraction](Images/Extraction.mp4)
 
 ---
 
