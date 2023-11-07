@@ -48,7 +48,7 @@
 1. Many of the processes are automatized taking as starting point the manually tagging.
 2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
-3. This video shows the automatic extraction: [vídeo] ([video.html](https://youtu.be/Sstu_yzQYnk))
+3. This video shows the automatic extraction: [vídeo](https://youtu.be/Sstu_yzQYnk)
 
 ---
 
@@ -65,7 +65,7 @@
 ---
 ## Presentación del proyecto
 
-[Presentación] (https://youtu.be/Akyy7MvAdGc)
+[Presentación](https://youtu.be/Akyy7MvAdGc)
 ---
 ## Some references
 
