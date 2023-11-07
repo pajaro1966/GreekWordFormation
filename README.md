@@ -48,7 +48,7 @@
 1. Many of the processes are automatized taking as starting point the manually tagging.
 2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
-3. This video shows the automatic extraction: (video.html)
+3. This video shows the automatic extraction: [vídeo] ([video.html](https://github.com/pajaro1966/GreekWordFormation/blob/main/Images/Extraction_02.mp4))
 
 ---
 
