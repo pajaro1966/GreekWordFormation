@@ -18,23 +18,22 @@
 2. The LSJ has been take from **Celano**'s  [Unicode LSJ](https://github.com/gcelano/LSJ_GreekUnicode)
 3. This dictionary contains 116.500 lemmata.
 4. The information is encoded in xml.
----
+   
 ![Πείθω](Images/DataBase_XML.png)
 
 ---
 ## Tagging
 
 1. Each lemma is tagged for the following information:
-1.1.  Segmentation
-1.2.  Word class
-1.3.  Suffixes
-1.4. Prefixes.
-1.5. Infixes.
-1.6.  Gender
-1.7.  Accent
-1.8. Family root
-1.9. ...
-
+    1.1.  Segmentation
+    1.2.  Word class
+    1.3.  Suffixes
+    1.4. Prefixes.
+    1.5. Infixes.
+    1.6.  Gender
+    1.7.  Accent
+    1.8. Family root
+    1.9. ...
 2. The tagging is both manual and automatic.
 3. Structure of the DB (partial information):
    
@@ -46,7 +45,7 @@
 1. Many of the processes are automatized taking as starting point the manually tagging.
 2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
-3. This video shows the automatic extraction: (Images/Extraction.mp4)
+3. This video shows the automatic extraction: (video.html)
 
 ---
 
