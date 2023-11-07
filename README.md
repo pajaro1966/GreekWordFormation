@@ -10,7 +10,10 @@
 1. This is the site of the Project “Word Formation in Ancient Greek”.
 2. The purpose of this project is to create a new handbook of Word Formation in the footsteps of Debrunner and Risch.
 3. This site is under construction.
-![](Images/Site_under_construction_02.png)
+
+   ---
+   
+![](Images/Site_under_construction_02.png) 
 ---
 ## Database
 
@@ -25,15 +28,15 @@
 ## Tagging
 
 1. Each lemma is tagged for the following information:
-    1.1.  Segmentation
-    1.2.  Word class
-    1.3.  Suffixes
-    1.4. Prefixes.
-    1.5. Infixes.
-    1.6.  Gender
-    1.7.  Accent
-    1.8. Family root
-    1.9. ...
+    - Segmentation
+    - Word class
+    - Suffixes
+    - Prefixes.
+    - Infixes.
+    - Gender
+    - Accent
+    - Family root
+    - ...
 2. The tagging is both manual and automatic.
 3. Structure of the DB (partial information):
    
