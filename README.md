@@ -48,7 +48,7 @@
 1. Many of the processes are automatized taking as starting point the manually tagging.
 2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
-3. This video shows the automatic extraction: [vídeo] (video.html)
+3. This video shows the automatic extraction: [vídeo] ([video.html](https://youtu.be/Sstu_yzQYnk))
 
 ---
 
@@ -62,7 +62,10 @@
 3. The following image (svg) depicts a provisional representation of the word family πείθω (‘to persuade’):
 
 ![Πείθω](Images/Peitho_Colores_02.png)
+---
+## Presentación del proyecto
 
+[Presentación] (https://youtu.be/Akyy7MvAdGc)
 ---
 ## Some references
 
