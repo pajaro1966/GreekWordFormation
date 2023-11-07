@@ -50,6 +50,8 @@
 ![](Images/Extraction.png)
 3. This video shows the automatic extraction: [vídeo] ([video.html](https://github.com/pajaro1966/GreekWordFormation/blob/main/Images/Extraction_02.mp4))
 
+<iframe src="video.html" title="Vídeo"></iframe>
+
 ---
 
 ## Graphics
