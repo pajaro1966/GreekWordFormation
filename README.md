@@ -61,7 +61,7 @@
 
 3. The following image (svg) depicts a provisional representation of the word family πείθω (‘to persuade’):
 
-![Πείθω](Images/Peitho_Colores_02.png)
+![Πείθω](Images/Peitho_Colores_02.svg)
 ---
 ## Presentación del proyecto
 
