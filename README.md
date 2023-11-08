@@ -69,6 +69,6 @@
 ---
 ## Some references
 
-1. Debrunner A. (1917). Griechische wortbildungslehre. C. Winter.
-2. Emde Boas E. van. (2019). The cambridge grammar of classical greek. University Press.
-3. Risch E. (1937). Wortbildung der homerischen sprache von ernst risch. W. de Gruyter.
+1. Debrunner A. (1917). *Griechische Wortbildungslehre*. C. Winter.
+2. Emde Boas E. van. (2019). *The Cambridge Grammar of Classical Greek*. University Press.
+3. Risch E. (1937). *Wortbildung der Homerischen Sprache*. W. de Gruyter.
