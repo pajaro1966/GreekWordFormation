@@ -65,7 +65,7 @@
 ---
 ## Presentación del proyecto
 
-[Presentación](https://youtu.be/Akyy7MvAdGc)
+1. [Vídeo de presentación](https://youtu.be/Akyy7MvAdGc)
 ---
 ## Some references
 
