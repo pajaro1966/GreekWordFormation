@@ -1,5 +1,7 @@
 - [αἶσχος](#αἶσχος)
 - [δίκη](#δίκη)
+- [πωλέω](#πωλέω)
+- [Markdown](#markdown)
 
 ---
 
@@ -13,7 +15,11 @@
 ![](WordFamilies/Dikh.svg)
 
 
-## Markdown
+# πωλέω
+
+![](WordFamilies/pwlew.svg)
+
+# Markdown
 
 
 
