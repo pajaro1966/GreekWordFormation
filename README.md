@@ -71,7 +71,7 @@
 
 ## Word families
 
-1. [Word families](https://pajaro1966.github.io/GreekWordFormation//Word_Families)
+1. [Word families](Word_Families.md)
 
 ---
 ## Some references
