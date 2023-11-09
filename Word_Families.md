@@ -7,6 +7,7 @@
 - [μανθάνω](#μανθάνω)
 - [πεἰθω](#πεἰθω)
 - [πωλέω](#πωλέω)
+- [ψεύδ-](#ψεύδ-)
 
 ---
 
@@ -16,13 +17,12 @@
 
 ![](WordFamilies/aischos.svg)
 
-
 ## Mermaid code
 
 ~~~
 {
-```mermaid
-  
+  ```mermaid
+
 graph TB
 
 A["αἶσχ-ος, -ους τό<F-942><br>S: 'vergüenza', 'fealdad'"]  
@@ -45,6 +45,7 @@ E --"R-ως"--> H
 ``` 
 }
 ~~~
+
 ---
 
 # δίκη
@@ -57,8 +58,6 @@ E --"R-ως"--> H
 
 ![](WordFamilies/manthanw.svg)
 
-
-
 ---
 
 # πεἰθω
@@ -68,3 +67,8 @@ E --"R-ως"--> H
 # πωλέω
 
 ![](WordFamilies/pwlew.svg)
+
+
+# ψεύδ-
+
+![](WordFamilies/pseudw.svg)

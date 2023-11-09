@@ -1,19 +1,28 @@
 
 
+- [Word Formation in Ancient Greek](#word-formation-in-ancient-greek)
+  - [Introduction](#introduction)
+  - [Database](#database)
+  - [Tagging](#tagging)
+  - [Data extraction](#data-extraction)
+  - [Graphics](#graphics)
+  - [Video presentation](#video-presentation)
+  - [Word families](#word-families)
+  - [Some references](#some-references)
+
+---
+
 # Word Formation in Ancient Greek
 ![](Images/Classic_Tree_02.jpeg)
 
 ---
-
 ## Introduction
 
 1. This is the site of the Project “Word Formation in Ancient Greek”.
 2. The purpose of this project is to create a new handbook of Word Formation in the footsteps of Debrunner and Risch.
 3. This site is under construction.
-
-   ---
-   
 ![](Images/Site_under_construction_02.png) 
+
 ---
 ## Database
 
@@ -55,23 +64,25 @@
 ## Graphics
 
 1. The database allows the automatical creation of graphics representing the derivation of each lemma.
-   
 2. The graphics are created in Markdown using [Mermaid](https://mermaid.js.org). 
+
 ![](Images/Mermaid.png)
 
 3. The following image (svg) depicts a provisional representation of the word family πείθω (‘to persuade’):
 
 ![Πείθω](Images/Peitho_Colores_02.svg)
----
-## Presentación del proyecto
 
-1. [Vídeo de presentación](https://youtu.be/Akyy7MvAdGc)
+---
+
+## Video presentation
+
+This Youtube [video](https://youtu.be/Akyy7MvAdGc) offers a glimpse of the project in two minutes.
 
 ---
 
 ## Word families
 
-1. [Word families](Word_Families.md)
+This link leads to some provisional graphics representing word families: [word families](Word_Families.md)
 
 ---
 ## Some references
