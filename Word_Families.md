@@ -3,6 +3,11 @@
 ![](Images/Peitho_Colores_02.svg)
 
 
+# δίκη
+
+![](Images/Dikh.svg)
+
+
 ## Markdown
 
 
