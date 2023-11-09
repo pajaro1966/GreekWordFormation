@@ -5,7 +5,7 @@
 
 # δίκη
 
-![](Images/Dikh.svg)
+![](WordFamilies/Dikh.svg)
 
 
 ## Markdown
