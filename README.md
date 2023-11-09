@@ -71,7 +71,7 @@
 
 ## Word families
 
-![](Word_Families.md)
+![Word families](/Word_Families.md)
 
 ---
 ## Some references
