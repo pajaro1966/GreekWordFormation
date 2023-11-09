@@ -57,7 +57,8 @@
 1. Many of the processes are automatized taking as starting point the manually tagging.
 2. The derivation of each lemma is extracted automatically, once the first base of each lemma has been manually established:
 ![](Images/Extraction.png)
-3. This video shows the automatic extraction: [vídeo](https://youtu.be/Sstu_yzQYnk)
+
+3. This [vídeo](https://youtu.be/Sstu_yzQYnk) shows the automatic extraction.
 
 ---
 
@@ -82,11 +83,12 @@ This Youtube [video](https://youtu.be/Akyy7MvAdGc) offers a glimpse of the proje
 
 ## Word families
 
-This link leads to some provisional graphics representing word families: [word families](Word_Families.md)
+1. This link leads to some provisional graphics representing [word families](Word_Families.md).
+2. These graphics are just meant as teaching material.
 
 ---
 ## Some references
 
 1. Debrunner A. (1917). *Griechische Wortbildungslehre*. C. Winter.
-2. Emde Boas E. van. (2019). *The Cambridge Grammar of Classical Greek*. University Press.
+2. Emde Boas E. van. (2019). *The Cambridge Grammar of Classical Greek*. Cambridge University Press.
 3. Risch E. (1937). *Wortbildung der Homerischen Sprache*. W. de Gruyter.
