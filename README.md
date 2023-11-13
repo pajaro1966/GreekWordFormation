@@ -9,6 +9,9 @@
   - [Video presentation](#video-presentation)
   - [Word families](#word-families)
   - [Some references](#some-references)
+    - [Ancient Greek](#ancient-greek)
+    - [Modern Greek](#modern-greek)
+    - [Other languages and general linguistics](#other-languages-and-general-linguistics)
 
 ---
 
@@ -90,7 +93,16 @@
 ---
 ## Some references
 
+### Ancient Greek
+
 1. Chantraine, P. (2002). *Morphologie historique du grec* (Reprint of the 2nd edition Paris 1961). Klincksieck.
 1. Debrunner A. (1917). *Griechische Wortbildungslehre*. C. Winter.
 2. Emde Boas E. van. (2019). *The Cambridge Grammar of Classical Greek*. Cambridge University Press.
 3. Risch E. (1937). *Wortbildung der Homerischen Sprache*. W. de Gruyter.
+
+### Modern Greek
+
+1. Μπαμπινιώτης, Γ. (ed.) (2016). *Λεχικό των παραγώγων και συνθέτων της νέας ελληνικής: Τα παιδιά και τα εγγόνια των λέξεων της γλώσσας μας*. Κέντρο λεξικολογίας.
+
+### Other languages and general linguistics
+
