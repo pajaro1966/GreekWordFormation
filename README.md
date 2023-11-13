@@ -77,8 +77,8 @@
 
 ## Video presentation
 
-1. This Youtube [video](https://youtu.be/Akyy7MvAdGc) offers a glimpse of the project in two minutes.
-2. This presentation is included in the [DARIAH-DAY Spain](https://www.youtube.com/watch?v=ua5DDvd5MUI).
+1. This [Youtube video](https://youtu.be/Akyy7MvAdGc) offers a glimpse of the project in two minutes.
+2. The presentation is included in the [DARIAH-DAY Spain](https://youtu.be/ua5DDvd5MUI?t=5415).
 
 ---
 
@@ -90,6 +90,7 @@
 ---
 ## Some references
 
+1. Chantraine, P. (2002). *Morphologie historique du grec* (Reprint of the 2nd edition Paris 1961). Klincksieck.
 1. Debrunner A. (1917). *Griechische Wortbildungslehre*. C. Winter.
 2. Emde Boas E. van. (2019). *The Cambridge Grammar of Classical Greek*. Cambridge University Press.
 3. Risch E. (1937). *Wortbildung der Homerischen Sprache*. W. de Gruyter.
