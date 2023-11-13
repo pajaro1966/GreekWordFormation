@@ -77,7 +77,8 @@
 
 ## Video presentation
 
-This Youtube [video](https://youtu.be/Akyy7MvAdGc) offers a glimpse of the project in two minutes.
+1. This Youtube [video](https://youtu.be/Akyy7MvAdGc) offers a glimpse of the project in two minutes.
+2. This presentation is included in the [DARIAH-DAY Spain](https://www.youtube.com/watch?v=ua5DDvd5MUI).
 
 ---
 
