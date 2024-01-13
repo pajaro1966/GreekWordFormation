@@ -32,6 +32,7 @@ For my daily work I use [Notable's](https://notable.app) built-in editor. Notabl
 ## 4. Filemaker
 Right now I'm creating a DB in Filemaker for visually creating graphs: the user just fills in the nodes and a script creates the code around.
 
+![](Images/Filemaker_Mermaid.png)
 
 ## 5. Mermaid integration in Filemaker
 

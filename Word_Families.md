@@ -10,7 +10,7 @@
 - [ψεύδ-](#ψεύδ-)
 
 ---
-
+These figures are just provisional drafts and will be changed and improved along the time.
 # αἶσχος
 
 ## Graphic
