@@ -76,6 +76,8 @@
 
 ![Πείθω](Images/Peitho_Colores_02.svg)
 
+4. The following subsection offers a selection of the tools used for creating the graphics: [Mermaid ](Mermaid.md).
+
 ---
 
 ## Video presentation
