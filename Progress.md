@@ -1,5 +1,20 @@
 [Main page](README.md)
 
+
+# Task list
+
+- [ ] List of suffixes
+- [ ] List of prefixes
+- [ ] Tagging of suffixes
+- [ ] Tagging of prefixes
+- [ ] Inclusion of Bases for each lemma
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+---
+
 # Progress
 
 ```mermaid
@@ -26,11 +41,3 @@ section 2027
         another task    :24d
 
 ```
-
-# Task list
-
-- [ ] List of suffixes
-- [ ] List of prefixes
-- [ ] Tagging of suffixes
-- [ ] Tagging of prefixes
-- [ ] Inclusion of Bases for each lemma
