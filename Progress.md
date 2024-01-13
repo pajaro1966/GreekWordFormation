@@ -33,4 +33,4 @@ section 2027
 - [ ] List of prefixes
 - [ ] Tagging of suffixes
 - [ ] Tagging of prefixes
-- [ ] 
+- [ ] Inclusion of Bases for each lemma
