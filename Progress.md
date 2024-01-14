@@ -8,8 +8,8 @@
 - [ ] Tagging of suffixes
 - [ ] Tagging of prefixes
 - [ ] Inclusion of Bases for each lemma
-- [ ] 
-- [ ] 
+- [ ] Composita
+- [ ] Word families
 - [ ] 
 - [ ] 
 
@@ -21,8 +21,9 @@
 gantt
     title Work plan and schedule
     dateFormat DD-MM-YYYY
+    axisFormat %m
 
-    section 2024
+section 2024
         List of suffixes          :a1, 01-01-2024, 30d
         List of prefixes    :a2, after a1, 20d
         List of prefixes    :after a2, 20d
