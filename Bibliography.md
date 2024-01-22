@@ -40,7 +40,7 @@
 1. Risch, Ernst. 1974. Wortbildung der homerischen Sprache. 2. ed. Berlin - New York.
 1. Risch, Ernst. 1981. “Zur Geschichte der griechischen Ethnika.” In: Kleine Schriften, ed. by Annemarie Etter and Marcel Looser, 133–144. Berlin - New York.
 1. Robins, Robert H. 2000. “Classical Antiquity”. In: Morphologie/Morphology. Ein internationals Handbuch zur Flexion und Wortbildung, An international handbook on inflection and word-formation, vol. 1, ed. by Gert Booij, Christian Lehmann, Joachim Mugdan in collaboration with Wolfgang Kesselheim, Stavros Skopeteas, 52-67. Berlin - New York.
-1. Schwyzer (): I: 415-ss.
+1. Schwyzer, Eduard. 1939. *Griechische Grammatik*. Vol. 1. München: Beck. I: 415-ff.
 1. Sommer, Ferdinand. 1948. Zur Geschichte der griechischen Nominalkomposita. Munich.
 1. Tribulato, Olga. 2007. “Greek compounds of the type ἰσόθεος ‘equal to a god’, ἀξιόλογος ‘worthy of note’, ἀπειρόμαχος ‘ignorant of war’, etc.”, Mnemosyne 60:527-549.
 1. Tucker, Elizabeth. 1990. The creation of morphological regularity: early Greek verbs in -éō, -áō, -óō, -úō and -íō. Göttingen.
@@ -65,14 +65,19 @@
 
 ## 3. Modern Greek
 
-
-- Μπαμπινιώτης, Γ. (ed.) (2016). Λεχικό των παραγώγων και συνθέτων της νέας ελληνικής: Τα παιδιά και τα εγγόνια των λέξεων της γλώσσας μας. Κέντρο λεξικολογίας.
+1. Manolessou, I., & Ralli, A. (2015). "From Ancient Greek to Modern Greek". In P. O. Müller, I. Ohnheiser, S. Olsen, & F. Rainer (Eds.), *Word-Formation An International Handbook of the Languages of Europe* (Vol. 3, pp. 2041–2061).
+2. Babiniotis, Giorgos (ed.) (2016). *Λεχικό των παραγώγων και συνθέτων της νέας ελληνικής: Τα παιδιά και τα εγγόνια των λέξεων της γλώσσας μας*. Κέντρο λεξικολογίας.
+3. Ralli, Angela. 2005. *Morphology*. Athens: Patakis.
+4. Ralli, Angela. 2013 Compounding in Modern Greek. Dordrecht: Springer.
 
 
 ## 4. General linguistics
 
-1. Booij, Geert, Christian Lehmann and Joachim Mugdan, eds. 2000. Morphologie: ein internationales Handbuch zur Flexion und Wortbildung.
-Berlin - New York.
+1. Booij, Geert, Christian Lehmann and Joachim Mugdan, eds. 2000. Morphologie: ein internationales Handbuch zur Flexion und Wortbildung. Berlin - New York.
 1. Štekauer, Pavol and Rochelle Lieber, eds. 2005. Handbook of word-formation. Dordrecht.
 2. Štekauer, Pavol, Salvador Valera and Lívia Körtvélyessy, eds. 2012. Word-formation in the world’s languages: a typological survey. Cambridge -
 New York.
+
+## 5. Online resources
+
+1. [OSU.EDU](https://u.osu.edu/greek/vocabulary/word-formation/#:~:text=They%20consist%20of%20roots%20(bearers,affixation%20of%20additional%20derivational%20suffixes)
