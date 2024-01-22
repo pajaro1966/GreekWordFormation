@@ -1,0 +1,116 @@
+```mermaid
+
+graph LR
+
+A("ἀνα-γιγνώσκω<br>‘to read’")
+B("(**ἀνα-γνωσ-τός,ή,όν<br>‘readable’)")
+C("εὐ-ανά-γνωσ-τος,oν<br>‘easy to read’")
+D("δυσ-ανά-γνωσ-τος,oν<br>‘hard to read’")
+
+A-->|"-τός,ή,όν"|B
+B-->|"εὐ-"|C
+B-->|"δυσ"|D
+
+
+```
+
+---
+
+```mermaid
+graph LR
+
+classDef Sust stroke:#f00, fill:pink
+classDef Adj stroke:#0f0, fill:lightgreen
+
+A[Verbos] --> A1[πωλέω V]
+
+A1 -->|"-μα"| A11[πώλη-μα N-RESULTADO 'cosa vendida']
+A11:::Sust
+A1 -- -σις--> A12[πώλη-σις N-ACCIÓN 'venta']
+A12:::Sust
+A1 -- -τής--> A13[πωλη-τής N-AGENTE-M 'vendedor'] -- -ικός--> A131[πώλη-τ-ικός ADJ 'vendedor']
+A13:::Sust; A131:::Adj
+A1 -- -τήρ--> A14[πωλη-τήρ N-AGENTE-M 'vendedor'] -- "ια"--> A141[πωλή-τρια N-AGENTE-FEM 'vendedora']
+A14:::Sust; A141:::Sust
+A14 -- -ιον--> A142[πωλη-τήριον N-LUGAR > 'tienda']
+A142:::Sust
+
+A1 -- -ης, ου--> A16[ºπώλ-ης, ου N-AGENTE 'que vende X'] --γᾰλακτοº--> A161[γᾰλακτο-πώλ-ης, ου N-AGENTE 'que vende leche']
+A16:::Sust; A161:::Sust
+A16[ºπώλ-ης, ου N-AGENTE 'que vende X'] --βυρσοº--> A162[βυρσο-πώλ-ης, ου N-AGENTE 'que vende objetos de cuero'] 
+A162:::Sust
+A1 -- -εῖον, ου--> A17[ºπωλ-εῖον, ου N-LUGAR 'donde se vende X'] --βιβλιοº--> A171[βιβλιο-πωλ-εῖον, ου N-LUGAR 'donde se vende leche']
+A17:::Sust; A171:::Sust
+A17[ºπωλ-εῖον, ου N-LUGAR 'donde se vende X'] --λᾰχᾰνοº--> A172[λᾰχᾰνο-πωλ-εῖον, ου N-LUGAR 'donde se vende verdura']
+A172:::Sust
+
+A1 -- -τός--> A15[πωλη-τός Adj-Pasivo 'en venta/vendible']
+A15:::Adj
+
+subgraph ideo0 [Sustantivos]
+subgraph ideo1 [Sustantivos derivados]
+A11
+A12
+A13; A131 
+A14; A141; A142 
+
+subgraph ideo4 [Agente]
+A13;  A131
+A14; A141; A142
+
+subgraph ideo7 [Adjetivo]
+A131
+end
+
+
+subgraph ideo8 [Femenino]
+A141
+
+end
+
+
+subgraph ideo9 [Lugar]
+A142
+
+end
+
+end
+
+
+subgraph ideo5 [Resultado]
+A11
+end
+
+subgraph ideo6 [Acción]
+A12
+end
+
+end
+
+subgraph ideo2 [Sustantivos compuestos]
+A16; A161; A162 
+A17 ; A171; A172
+
+subgraph ideo10 [Agente]
+A16; A161; A162 
+
+
+end
+
+subgraph ideo111 [Lugar]
+A17 ; A171; A172
+
+end
+
+end
+end
+
+
+subgraph ideo3 [Adjetivos]
+A15
+
+end
+
+
+
+```
